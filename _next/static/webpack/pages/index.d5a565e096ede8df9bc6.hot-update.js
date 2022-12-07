@@ -287,7 +287,7 @@ var Extras = {
   githubLink: "https://github.com/Revya7/",
   linkedinLink: "https://www.linkedin.com/in/mahdi-alfakih-rev/",
   email: "revyagig77@gmail.com",
-  cv_link: "./Mahdi_CV_7_2021.pdf"
+  cv_link: "./Mahdi_CV.pdf"
 };
 
 ;
