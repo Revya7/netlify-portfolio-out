@@ -37,8 +37,8 @@ var projects = [{
   description: "An easy-to-use visualizer made while practicing Vue.js framework. It serves to visualize both Path finding algorithms with their different heuristics (A*, Dijkstar, JPS) and Sorting algorithms after implementing them both from scratch.",
   image: '/images/revue_visualiser_1c.png',
   tags: ['Vue.js', 'JavaScript', 'Data Structure and Algorithms', 'CSS3', 'HTML5'],
-  source: 'https://uplody.com/visualizer/pathfinding',
-  visit: 'https://uplody.com/visualizer/pathfinding',
+  source: 'https://revuevisualizer.surge.sh/',
+  visit: 'https://revuevisualizer.surge.sh/',
   badges: ['Web Dev'],
   id: 0
 }, {
