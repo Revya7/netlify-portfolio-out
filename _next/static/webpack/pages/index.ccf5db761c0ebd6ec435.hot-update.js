@@ -110,7 +110,7 @@ self['webpackHotUpdate_N_E']('pages/index', {
                                                                 style: {
                                                                     color: '#C2C4C7',
                                                                 },
-                                                                children: 'Web Developer',
+                                                                children: 'Web Engineer',
                                                             },
                                                             void 0,
                                                             false,
@@ -122,7 +122,7 @@ self['webpackHotUpdate_N_E']('pages/index', {
                                                             _this
                                                         ),
                                                         ' ',
-                                                        'with 5+ years of work experience.',
+                                                        'with 7+ years of work experience.',
                                                         /*#__PURE__*/ (0, react_jsx_dev_runtime__WEBPACK_IMPORTED_MODULE_0__.jsxDEV)(
                                                             'br',
                                                             {},
